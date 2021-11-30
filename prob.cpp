@@ -1,1 +1,2 @@
-#include <QFile>
+#include <string>
+??лалалалалалал
